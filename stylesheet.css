@@ -126,7 +126,7 @@ img {
 
 footer{
   grid-area: footer;
-  background-image: url("/IMG_9882.jpg") ;
+  background-image: url("IMG_9882.jpg") ;
   background-size: contain;
   }
 small {
